@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+&:hover{
+    ${0}
+}
+]]></content>
+	<scope>source.less</scope>
+	<tabTrigger>hover</tabTrigger> 
+</snippet>

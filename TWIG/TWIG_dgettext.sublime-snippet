@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{{ "$0"|dgettext('template') }}
+]]></content>
+	<tabTrigger>dgettext</tabTrigger>
+	<scope>source.twig, text.twig, text.html.twig, text.js.twig, text.css.twig</scope>
+</snippet>

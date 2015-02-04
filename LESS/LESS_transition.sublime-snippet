@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.transition(${1:0.4s} ${2:color} ${3:@easeOutExpo});
+]]></content>
+	<scope>source.less</scope>
+	<tabTrigger>trans</tabTrigger> 
+</snippet>

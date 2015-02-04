@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+/*------------------------------------*\
+   ${1:NAME}
+\*------------------------------------*/
+
+
+/*
+ * ${2:description}
+ */
+
+
+]]></content>
+    <scope>source.less</scope>
+    <tabTrigger>deffile</tabTrigger> 
+</snippet>

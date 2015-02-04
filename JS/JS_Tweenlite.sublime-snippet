@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+TweenLite.to('${1:element}', ${2:duration}, {${3:property}:${4:value}, ease:Expo.easeOut});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>tlto</tabTrigger> 
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+.transition-timing-function(${1:@easeOutExpo});
+]]></content>
+    <scope>source.less</scope>
+    <tabTrigger>ttf</tabTrigger> 
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{{ dump($0) }}
+]]></content>
+	<tabTrigger>dump</tabTrigger>
+	<scope>source.twig, text.twig, text.html.twig, text.js.twig, text.css.twig</scope>
+</snippet>

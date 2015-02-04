@@ -1,0 +1,60 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:desc}
+ */
+
+var ${2:name} = function(){
+	var _this = this;
+
+	// Selectors
+	_this.\$el = \$('#el');
+
+	// Methods
+	_this.init();
+
+	$0
+
+};
+
+
+$2.prototype.\$el = null;
+
+
+/**
+ * Init
+ * @return {[type]} [description]
+ */
+$2.prototype.init = function(){
+	var _this = this;
+
+	// Events
+
+};
+
+
+/**
+ * Destroy
+ * @return {[type]} [description]
+ */
+$2.prototype.destroy = function(){
+	var _this = this;
+
+	// Events
+
+};
+
+
+/**
+ * Window resize callback
+ * @return {[type]} [description]
+ */
+$2.prototype.resize = function(){
+	var _this = this;
+
+};
+
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>deffile</tabTrigger> 
+</snippet>

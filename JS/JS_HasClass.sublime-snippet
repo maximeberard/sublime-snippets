@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+if(${1:element}.className.indexOf('${2:class}') >= 0) {
+	${3:code}
+}
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>hascls</tabTrigger> 
+</snippet>

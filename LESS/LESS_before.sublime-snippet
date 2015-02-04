@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+&:before{
+    position: absolute;
+    content:'';
+    top: ${1:0}px; left: ${2:0}px;   
+}
+]]></content>
+	<scope>source.less</scope>
+	<tabTrigger>before</tabTrigger> 
+</snippet>

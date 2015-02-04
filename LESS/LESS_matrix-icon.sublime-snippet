@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.matrix-icon(-${1:x}*@icon-size, -${2:y}*@icon-size);
+]]></content>
+	<scope>source.less</scope>
+	<tabTrigger>matrix</tabTrigger> 
+</snippet>
