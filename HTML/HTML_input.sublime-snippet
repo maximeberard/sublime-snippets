@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<input type="${1:text|hidden|search|email|password}" name="${2:name}" value="${4:value}" />
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>input</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html, source.html</scope>
+</snippet>
