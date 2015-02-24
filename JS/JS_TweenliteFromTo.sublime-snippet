@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+TweenLite.fromTo(${1:element}, ${2:duration},  {${3:property}:${4:fromValue}, {${3:property}:${5:toValue}, ease:Expo.easeOut});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>tlfrto</tabTrigger> 
+</snippet>
