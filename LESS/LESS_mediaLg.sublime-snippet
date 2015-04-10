@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+@media (min-width: @screen-lg-min) {
+    ${0}
+}
+]]></content>
+    <scope>source.less</scope>
+    <tabTrigger>medialg</tabTrigger> 
+</snippet>
