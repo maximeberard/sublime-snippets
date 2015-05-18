@@ -14,11 +14,7 @@ var ${2:name} = function(){
 	_this.init();
 
 	$0
-
 };
-
-
-$2.prototype.\$el = null;
 
 
 /**
@@ -46,7 +42,7 @@ $2.prototype.destroy = function(){
 
 
 /**
- * Window resize callback
+ * Resize
  * @return {[type]} [description]
  */
 $2.prototype.resize = function(){

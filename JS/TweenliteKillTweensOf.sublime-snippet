@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+TweenLite.killTweensOf(${1:element});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>tlkill</tabTrigger>
+</snippet>
