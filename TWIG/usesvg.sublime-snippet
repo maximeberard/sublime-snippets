@@ -1,10 +1,9 @@
 <snippet>
 	<content><![CDATA[
 {% include 'svg/use.svg.twig' with
-    {classes:['${1:class}'], icon:'${1:icon}'}
+    {classes:['${1:class}'], icon:'${2:icon}'}
 only %}
-{{ |join(' ') }}
 ]]></content>
-	<tabTrigger>svg</tabTrigger>
+	<tabTrigger>usesvg</tabTrigger>
 	<scope>source.twig, text.twig, text.html.twig, text.js.twig, text.css.twig</scope>
 </snippet>
