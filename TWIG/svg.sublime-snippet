@@ -1,7 +1,10 @@
 <snippet>
 	<content><![CDATA[
-{% set ${1:blockClasses} = ${1:blockClasses}|merge([${2:class}]) %}
+{% include 'svg/use.svg.twig' with
+    {classes:['${1:class}'], icon:'${1:icon}'}
+only %}
+{{ |join(' ') }}
 ]]></content>
-	<tabTrigger>merge</tabTrigger>
+	<tabTrigger>svg</tabTrigger>
 	<scope>source.twig, text.twig, text.html.twig, text.js.twig, text.css.twig</scope>
 </snippet>
