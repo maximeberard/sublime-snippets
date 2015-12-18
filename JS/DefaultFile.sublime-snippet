@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 /**
  * Copyright $TM_ORGANIZATION_NAME $TM_YEAR
  *
@@ -11,20 +11,20 @@
  */
 
 var ${2:name} = function(){
-	var _this = this;
+    var _this = this;
 
-	// Selectors
-	_this.\$el = \$('#el');
+    // Selectors
+    _this.\$el = \$('#el');
 
-	// Methods
-	_this.init(); $0
+    // Methods
+    _this.init(); $0
 };
 
 /**
  * Init
  */
 $2.prototype.init = function(){
-	var _this = this;
+    var _this = this;
 
 };
 
@@ -32,7 +32,7 @@ $2.prototype.init = function(){
  * Destroy
  */
 $2.prototype.destroy = function(){
-	var _this = this;
+    var _this = this;
 
 };
 
@@ -41,11 +41,11 @@ $2.prototype.destroy = function(){
  * Resize
  */
 $2.prototype.resize = function(){
-	var _this = this;
+    var _this = this;
 
 };
 
 ]]></content>
-	<scope>source.js</scope>
-	<tabTrigger>deffile</tabTrigger> 
+    <scope>source.js</scope>
+    <tabTrigger>deffile</tabTrigger> 
 </snippet>

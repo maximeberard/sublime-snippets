@@ -4,9 +4,9 @@
  * ${1:desc}
  */
 ${2:parent}.prototype.${3:name} = function(${4:e}){
-	var _this = this;
+    var _this = this;
 
-	$5
+    $5
 };
 
 ]]></content>
