@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+@media (min-width: @screen-xl-min) {
+    ${0}
+}
+]]></content>
+	<scope>source.less</scope>
+	<tabTrigger>mediaxl</tabTrigger>
+</snippet>

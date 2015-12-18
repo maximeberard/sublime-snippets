@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+/**
+ *
+ * @return ${1:MyClass}
+ */
+var ${1} = function() {
+    var _this = this;
+
+    _this.init();
+};
+
+${1}.prototype.init = function() {
+    var _this = this;
+
+};
+]]></content>
+    <scope>source.js</scope>
+	<tabTrigger>newclass</tabTrigger>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[{{ path('$0') }}]]></content>
+    <content><![CDATA[{{ url('$0', {_locale:request.locale}) }}]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>path</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
