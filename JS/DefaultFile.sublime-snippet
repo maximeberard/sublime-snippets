@@ -19,7 +19,6 @@ var ${2:name} = function(){
 
 /**
  * Init
- * @return {[type]} [description]
  */
 $2.prototype.init = function(){
 	var _this = this;
@@ -31,7 +30,6 @@ $2.prototype.init = function(){
 
 /**
  * Destroy
- * @return {[type]} [description]
  */
 $2.prototype.destroy = function(){
 	var _this = this;

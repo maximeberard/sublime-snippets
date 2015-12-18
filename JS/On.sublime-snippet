@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:element}.on('${2:click}', \$.proxy(${3:callback}, _this));
+${1:element}.on('${2:click}', \$.proxy(_this.${3:callback}, _this));
 ]]></content>
 	<scope>source.js</scope>
 	<tabTrigger>on</tabTrigger> 

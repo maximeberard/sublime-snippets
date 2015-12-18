@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+{{ ${1:nodeSource}.${2:image}${3:[0]}|display(themeServices.imageFormats.${4:headerImage}) }}
+]]></content>
+    <tabTrigger>display</tabTrigger>
+    <scope>source.twig, text.twig, text.html.twig, text.js.twig, text.css.twig</scope>
+</snippet>

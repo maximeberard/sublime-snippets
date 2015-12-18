@@ -2,15 +2,12 @@
 	<content><![CDATA[
 /**
  * ${1:desc}
- * @return {[type]} [description]
  */
 ${2:parent}.${3:name} = function(${4:e}){
 	var _this = this;
 
 	$5
-
 };
-
 
 ]]></content>
 	<scope>source.js</scope>
