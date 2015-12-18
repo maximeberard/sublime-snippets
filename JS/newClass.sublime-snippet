@@ -1,6 +1,11 @@
 <snippet>
 	<content><![CDATA[
 /**
+ * Copyright $TM_ORGANIZATION_NAME $TM_YEAR
+ *
+ * @file $TM_FILENAME
+ * @copyright $TM_ORGANIZATION_NAME $TM_YEAR
+ * @author $TM_FULLNAME
  *
  * @return ${1:MyClass}
  */
@@ -14,6 +19,12 @@ ${1}.prototype.init = function() {
     var _this = this;
 
 };
+
+${1}.prototype.destroy = function() {
+    var _this = this;
+
+};
+
 ]]></content>
     <scope>source.js</scope>
 	<tabTrigger>newclass</tabTrigger>
