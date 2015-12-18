@@ -1,6 +1,12 @@
 <snippet>
 	<content><![CDATA[
 /**
+ * Copyright $TM_ORGANIZATION_NAME $TM_YEAR
+ *
+ * @file $TM_FILENAME
+ * @copyright $TM_ORGANIZATION_NAME $TM_YEAR
+ * @author $TM_FULLNAME
+ *
  * ${1:desc}
  */
 
@@ -11,11 +17,8 @@ var ${2:name} = function(){
 	_this.\$el = \$('#el');
 
 	// Methods
-	_this.init();
-
-	$0
+	_this.init(); $0
 };
-
 
 /**
  * Init
@@ -23,10 +26,7 @@ var ${2:name} = function(){
 $2.prototype.init = function(){
 	var _this = this;
 
-	// Events
-
 };
-
 
 /**
  * Destroy
@@ -34,14 +34,11 @@ $2.prototype.init = function(){
 $2.prototype.destroy = function(){
 	var _this = this;
 
-	// Events
-
 };
 
 
 /**
  * Resize
- * @return {[type]} [description]
  */
 $2.prototype.resize = function(){
 	var _this = this;

@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[{{ url('$0', {_locale:request.locale}) }}]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>path</tabTrigger>
+    <tabTrigger>url</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>text.twig, source.twig, text.html</scope>
 </snippet>
