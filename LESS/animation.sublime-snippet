@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+animation: ${1:name} ${2:duration}s${3: infinite};
+
+@keyframes $1 {
+    0%   {${4:property}: ${5:value1};}
+    50%  {$4: ${6:value2};}
+    100% {$4: ${7:value3};}
+}
+]]></content>
+    <scope>source.less</scope>
+    <tabTrigger>animation</tabTrigger> 
+</snippet>
