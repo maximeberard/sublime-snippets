@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_this.
-]]></content>
-	<scope>source.js</scope>
-	<tabTrigger>th</tabTrigger> 
-</snippet>

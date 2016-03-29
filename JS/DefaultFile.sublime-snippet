@@ -11,7 +11,6 @@
  */
 
 var ${2:name} = function(){
-    var _this = this;
 
     // Selectors
     _this.\$el = \$('#el');
@@ -24,7 +23,6 @@ var ${2:name} = function(){
  * Init
  */
 $2.prototype.init = function(){
-    var _this = this;
 
 };
 
@@ -32,7 +30,6 @@ $2.prototype.init = function(){
  * Destroy
  */
 $2.prototype.destroy = function(){
-    var _this = this;
 
 };
 
@@ -41,7 +38,6 @@ $2.prototype.destroy = function(){
  * Resize
  */
 $2.prototype.resize = function(){
-    var _this = this;
 
 };
 
