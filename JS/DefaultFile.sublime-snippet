@@ -10,36 +10,29 @@
  * ${1:desc}
  */
 
-var ${2:name} = function(){
+export class ${2:name}  {
 
-    // Selectors
-    _this.\$el = \$('#el');
+    constructor(${2:params}){
 
-    // Methods
-    _this.init(); $0
-};
+    }
+    
+    init(){
 
-/**
- * Init
- */
-$2.prototype.init = function(){
+    }
 
-};
+    destroy(){
 
-/**
- * Destroy
- */
-$2.prototype.destroy = function(){
+    }
 
-};
+    initEvents(){
 
+    }
 
-/**
- * Resize
- */
-$2.prototype.resize = function(){
+    destroyEvents(){
+    
+    }
+}
 
-};
 
 ]]></content>
     <scope>source.js</scope>
