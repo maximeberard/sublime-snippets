@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-rgba(${0:red},${1:green},${2:blue},${3:alpha})
+rgba(${1:128,${2:128,${3:128,${4:0.5})
 ]]></content>
 	<scope>source.less</scope>
 	<tabTrigger>rgba</tabTrigger> 

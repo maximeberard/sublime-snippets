@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-rgba(0,0,0,${0:alpha})
+rgba(0,0,0,${1:0.5})
 ]]></content>
 	<scope>source.less</scope>
 	<tabTrigger>rgbablack</tabTrigger> 
