@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgba(255,255,255,${0:alpha})
+]]></content>
+	<scope>source.less</scope>
+	<tabTrigger>rgbawhite</tabTrigger> 
+</snippet>

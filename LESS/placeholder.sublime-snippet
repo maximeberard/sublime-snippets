@@ -1,0 +1,22 @@
+ <snippet>
+    <content><![CDATA[
+&::-webkit-input-placeholder {
+    ${0};
+}
+
+&:-moz-placeholder {
+    $0;
+}
+
+&::-moz-placeholder {
+    $0;
+}
+
+&:-ms-input-placeholder {
+   $0;
+}
+]]></content>
+    <scope>source.less</scope>
+    <tabTrigger>placeholder</tabTrigger> 
+</snippet>
+
