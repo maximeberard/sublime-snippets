@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-var ${1:name} = new TimelineLite({onComplete:${2:callback}});
+let ${1:name} = new TimelineLite({onComplete:${2:callback}});
 
 $1.to(${3:element}, ${4:duration}, {${5:property}:${6:value}${7:, ease:Expo.easeOut}});
 ]]></content>
 	<scope>source.js</scope>
-	<tabTrigger>tltl</tabTrigger> 
+	<tabTrigger>tltl</tabTrigger>
 </snippet>

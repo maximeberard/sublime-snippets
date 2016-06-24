@@ -1,12 +1,11 @@
 <snippet>
 	<content><![CDATA[
-if(document.cookie.match(new RegExp('${1:cookieName}' + '=([^;]+)')) === null){
-
+if(document.cookie.match(new RegExp('${1:cookieName}' + '=([^;]+)')) === null) {
     var expiryDate = new Date();
     expiryDate.setFullYear(expiryDate.getFullYear() + 1);
     document.cookie = '$1=y; expires=' + expiryDate.toGMTString();
 }
 ]]></content>
 	<scope>source.js</scope>
-	<tabTrigger>cookiecheck</tabTrigger> 
+	<tabTrigger>cookiecheck</tabTrigger>
 </snippet>
