@@ -9,32 +9,37 @@
  *
  * ${1:desc}
  */
+// Some optional handy imports
+//import $ from "jquery";
+//import TweenMax from "TweenMax";
+//import log from "loglevel";
+//import {BootstrapMedia} from "utils/bootstrapMedia";
 
-export class ${2:name}  {
-
-    constructor(${2:params}){
-
-    }
-    
-    init(){
-
-    }
-
-    destroy(){
+export class ${2:name}
+{
+    constructor(${2:params}) {
 
     }
 
-    initEvents(){
+    init() {
 
     }
 
-    destroyEvents(){
-    
+    destroy() {
+
+    }
+
+    initEvents() {
+
+    }
+
+    destroyEvents() {
+
     }
 }
 
 
 ]]></content>
     <scope>source.js</scope>
-    <tabTrigger>deffile</tabTrigger> 
+    <tabTrigger>deffile</tabTrigger>
 </snippet>
