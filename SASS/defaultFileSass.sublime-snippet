@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+
+/*
+ * ${1:NAME}
+ */
+
+
+]]></content>
+    <scope>source.scss</scope>
+    <tabTrigger>deffile</tabTrigger> 
+</snippet>

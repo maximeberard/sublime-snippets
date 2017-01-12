@@ -8,6 +8,6 @@ animation: ${1:name} ${2:duration}s${3: infinite};
     100% {$4: ${7:value3};}
 }
 ]]></content>
-    <scope>source.less</scope>
+    <scope>source.scss</scope>
     <tabTrigger>animation</tabTrigger> 
 </snippet>

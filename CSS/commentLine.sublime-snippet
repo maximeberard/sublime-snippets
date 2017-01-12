@@ -3,6 +3,6 @@
 // --- ${1:comment} --- //
 
 ${2}]]></content>
-    <scope>source.less</scope>
+    <scope>source.less, source.scss</scope>
     <tabTrigger>commline</tabTrigger> 
 </snippet>

@@ -2,6 +2,6 @@
 	<content><![CDATA[
 rgba(255,255,255,${1:0.5})
 ]]></content>
-	<scope>source.less</scope>
+	<scope>source.less, source.scss</scope>
 	<tabTrigger>rgbawhite</tabTrigger> 
 </snippet>
