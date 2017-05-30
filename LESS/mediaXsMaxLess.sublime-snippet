@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+@media (max-width: @screen-xs-max) {
+    ${0}
+}
+]]></content>
+	<scope>source.less</scope>
+	<tabTrigger>mediaxsmax</tabTrigger> 
+</snippet>
