@@ -16,7 +16,7 @@
    $0;
 }
 ]]></content>
-    <scope>source.less</scope>
+    <scope>source.css.less</scope>
     <tabTrigger>placeholder</tabTrigger> 
 </snippet>
 

@@ -6,6 +6,6 @@
     top: ${1:0}px; left: ${2:0}px;
 }
 ]]></content>
-	<scope>source.less, source.scss</scope>
+	<scope>source.css.less, source.scss</scope>
 	<tabTrigger>after</tabTrigger> 
 </snippet>

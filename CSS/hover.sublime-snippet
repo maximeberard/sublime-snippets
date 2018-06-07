@@ -4,6 +4,6 @@
     ${0}
 }
 ]]></content>
-	<scope>source.less, source.scss</scope>
+	<scope>source.css.less, source.scss</scope>
 	<tabTrigger>hover</tabTrigger> 
 </snippet>

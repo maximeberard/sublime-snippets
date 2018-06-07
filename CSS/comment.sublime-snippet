@@ -5,6 +5,6 @@
  */
 
 ${2}]]></content>
-    <scope>source.less, source.scss</scope>
+    <scope>source.css.less, source.scss</scope>
     <tabTrigger>comm</tabTrigger> 
 </snippet>
