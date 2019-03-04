@@ -4,6 +4,6 @@
     ${0}
 }
 ]]></content>
-	<scope>source.css.less</scope>
+	<scope>source.less</scope>
 	<tabTrigger>mediamd</tabTrigger> 
 </snippet>
